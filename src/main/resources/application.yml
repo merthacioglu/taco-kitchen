@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: taco-kitchen
+  rabbitmq:
+    template:
+      receive-timeout: 30000
